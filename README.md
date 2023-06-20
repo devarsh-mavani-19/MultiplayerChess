@@ -7,7 +7,7 @@
 2. ```git clone <repo-url>```
 3. `cd MultiplayerChess`
 4. `cd chess-frontend `
-5. npm i`
+5. `npm i`
 6. `cd ../backend`
 7. `npm i`
  
